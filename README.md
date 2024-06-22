@@ -1,0 +1,1 @@
+Proyecto para una empresa de taxis para encontrar patrones en la información disponible, con el objetivo de comprender las preferencias de los pasajeros y el impacto de los factores externos en los viajes.
