@@ -1,1 +1,2 @@
 Proyecto para una empresa de taxis para encontrar patrones en la información disponible, con el objetivo de comprender las preferencias de los pasajeros y el impacto de los factores externos en los viajes.
+He logrado evaluar y entrenar 5 diferentes modelos para predecir la cantidad de pedidos de taxis en la proxima hora. Previemente realizamos una análisis exploratorio de datos centrandonos en la variable num_orders (Número de pedidos) y re-muestreamos los 
